@@ -10,9 +10,9 @@
      
      👀 Interested in Web Development
      
-            Proficient in Python, with experience in a variety of 
-      Python libraries and frameworks such as NumPy, Pandas, and 
-      Django and GUI using tkinter
+            Proficient in Python, with experience in a variety of Python
+      libraries and frameworks such as NumPy, Pandas, and Django and 
+      GUI using tkinter
 
 
 <h3 align="left">Connect with me:</h3>
