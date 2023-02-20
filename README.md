@@ -2,6 +2,7 @@
 
  <img src="https://komarev.com/ghpvc/?username=Satya2553&label=Profile%20views&color=0e75b6&style=flat" alt="Satya2553" /> ![GitHub followers](https://img.shields.io/github/followers/Satya2553) ![GitHub User's stars](https://img.shields.io/github/stars/Satya2553)
 
+
 <img align="right" alt="Coding" width="300" src="https://media.istockphoto.com/id/1371339413/photo/co-working-team-meeting-concept-businessman-using-smart-phone-and-digital-tablet-and-laptop.jpg?b=1&s=170667a&w=0&k=20&c=GnW36mPEYr3TRpPZNLtT75u8v2HOczvRxGckWUN3hVg=">
      
      Student 🧑🏻‍🎓 at JNTU-GV
