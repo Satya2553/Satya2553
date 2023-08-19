@@ -1,9 +1,8 @@
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/236x/b1/2d/92/b12d92f74cf9f9a8b30de128cf2b5ccf.jpg"  />
+  <img src="https://i.pinimg.com/236x/b1/2d/92/b12d92f74cf9f9a8b30de128cf2b5ccf.jpg"  />
 </div>
 
 ###
-
 <h1 align="center">HELLO, IT'S ME SATYA... 😇</h1>
 
 ###
