@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/236x/b1/2d/92/b12d92f74cf9f9a8b30de128cf2b5ccf.jpg"  />
+</div>
+
+###
+
 <h1 align="center">HELLO, IT'S ME SATYA... 😇</h1>
 
 ###
@@ -12,18 +18,11 @@
 
 ###
 
-<img align="right" height = "250" src="https://i.pinimg.com/236x/b1/2d/92/b12d92f74cf9f9a8b30de128cf2b5ccf.jpg"  />
-
-###
-
-<p align="left">🧑🏻‍🎓 Student at JNTU-GV<br><br>💻 Computer Science Student 🚀<br>Proficient in programming 🖥️, software development 🛠️, and<br>problem-solving 🧠, actively seeking opportunities with the best<br>company to leverage my skills and contribute to cutting-edge<br>projects 🌟.</p>
+<p align="left">🧑🏻‍🎓 Student at JNTU-GV<br><br>💻 Computer Science Student 🚀<br><br>Proficient in programming 🖥️, software development 🛠️, and<br>problem-solving 🧠, actively seeking opportunities with the best<br>company to leverage my skills and contribute to cutting-edge<br>projects 🌟.</p>
 
 ###
 
 <div align="left">
- <a href="https://mareedu-satyanarayana.web.app/" target="blank">
-    <img src="https://img.shields.io/static/v1?logo=blogger&label=&message=Portfolio&color=FF5722&logoColor=white&labelColor=&style=flat" alt="https://mareedu-satyanarayana.web.app/" height="25"/>
- </a>
   <a href="https://www.linkedin.com/in/mareedu-satyanarayana-686b54205/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
