@@ -25,7 +25,7 @@
   <a href="https://mareedu-satyanarayana.web.app/" target="blank">
     <img src="https://img.shields.io/static/v1?logo=blogger&label=&message=Portfolio&color=FF5722&logoColor=white&labelColor=&style=flat" alt="https://mareedu-satyanarayana.web.app/" height="25" />
   </a>
-  <a href="https://www.linkedin.com/in/mareedu-satyanarayana-686b54205/" target="_blank">
+  <a href="https://www.linkedin.com/in/mareedu-satyanarayana/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
   <a href="mareedu.satyanarayana.5475@gmail.com" target="_blank">
@@ -55,6 +55,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="node logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
